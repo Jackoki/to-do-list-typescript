@@ -1,0 +1,5 @@
+Para o funcionamento do código é necessário a instalação do node.js e a reinstalação da biblioteca react pelos comandos:
+
+npm uninstall -g create-react-app
+
+npx create-react-app "nomedapasta" --template typescript
